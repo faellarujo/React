@@ -9,12 +9,12 @@ import HomePage from './componentes/HomePage';
 
 function App() {
   return (
-    <div className="App">
-      
+    <div className="App">  
+    
         <Header />
         <HomePage />
-        <Footer />
-      
+        <Footer />              
+    
     </div>
   );
 }

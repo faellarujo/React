@@ -22,6 +22,5 @@ MVP do cadastro de Cards
 
 ## 🎁 Nota do Desenvolvedor sobre o teste 
 
-* A honestidade é uma virtude, por isso confesso que solicitei mais 1 dia de prazo e mesmo assim não tive tempo de concluir todas as implementações solicitadas... :( 
-* achei muito massa o projeto. Vou terminar e realizar algumas evoluções 🍺
-* Obrigado pela oportunidade 🤓.
+* A honestidade é uma virtude, ainda não tem nenhuma funcionalidade... :( Vou terminar e realizar algumas evoluções 🍺
+
